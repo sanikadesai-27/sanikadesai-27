@@ -78,8 +78,8 @@ Currently focused on:
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sanikapdesai&show_icons=true&theme=radical&hide_border=true&title_color=F6A6C1&icon_color=8E7DBE&text_color=ffffff&bg_color=1a1b27" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikapdesai&theme=radical&hide_border=true&background=1a1b27&ring=F6A6C1&fire=8E7DBE&currStreakLabel=F6A6C1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanikadesai-27&show_icons=true&theme=radical&hide_border=true&title_color=F6A6C1&icon_color=8E7DBE&text_color=ffffff&bg_color=1a1b27" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikadesai-27&theme=radical&hide_border=true&background=1a1b27&ring=F6A6C1&fire=8E7DBE&currStreakLabel=F6A6C1" height="165"/>
 </div>
 
 <br/>
