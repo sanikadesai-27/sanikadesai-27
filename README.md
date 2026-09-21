@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sanika Desai 👋</h1>
 
 <p align="center">
-  <em>Second Year AIML Engineering Student | Learning DSA & Python</em>
+  <em>Second Year AIDS Engineering Student | Learning DSA & Python</em>
 </p>
 
 <p align="center">
