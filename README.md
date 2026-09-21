@@ -1,81 +1,97 @@
-<h1 align="center">Hi there, I'm Sanika Desai 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>AIDS Engineering Student | Learning DSA & Python</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6A6C1,100:8E7DBE&height=220&section=header&text=Sanika%20Desai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Second%20Year%20AIML%20Engineering%20Student&descSize=18&descAlignY=58" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanikapdesai/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/sanikapdesai/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-8E7DBE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=F6A6C1" alt="LinkedIn"/>
+</a>
 
----
+<br/><br/>
 
-### 🎓 About Me
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=800&color=8E7DBE&center=true&vCenter=true&width=560&lines=Learning+AI+%26+Machine+Learning;Sharpening+DSA+one+problem+at+a+time;Exploring+Web+Development;Python+is+my+comfort+language" alt="Typing SVG"/>
 
-- 🌱 Currently pursuing my degree in **Artificial Intelligence & Data Science Engineering**
-- 📘 Sharpening my fundamentals in **Data Structures & Algorithms**
-- 🐍 Learning and building with **Python**
-- 🌐 Exploring **Web Development**
-- 🤖 Diving into **AI & Machine Learning**
-- 🔭 Working on projects — coming soon!
-- 💬 Always open to connect, collaborate, and learn together
+</div>
 
----
+<br/>
 
-### 🛠️ Skills
+## About
+
+I'm an AIML Engineering student in my second year, spending most days between algorithms, half-finished web projects, and figuring out how machine learning actually works under the hood. I like building things that make a concept click, not just checking boxes on a syllabus.
+
+Currently focused on:
+
+- Getting comfortable with core Data Structures & Algorithms
+- Writing cleaner, more thoughtful Python
+- Understanding the fundamentals of AI and Machine Learning
+- Picking up Web Development on the side
+
+<br/>
+
+## Skills
+
+<div align="center">
 
 **Languages & DSA**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,java,cpp&theme=light" />
+
+<br/><br/>
 
 **Web Development**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=light" />
+
+<br/><br/>
 
 **AI / Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow&theme=light" />
+<br/>
+<sub>NumPy · Pandas · scikit-learn</sub>
+
+<br/><br/>
 
 **Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=light" />
 
----
+</div>
 
-### 🚀 Projects
+<br/>
 
-> Projects will be added here soon. Stay tuned! 🚧
+## Projects
 
----
+<div align="center">
 
-### 📫 Connect with Me
+<table>
+<tr>
+<td align="center" width="100%">
+<i>New projects are on the way. Check back soon.</i>
+</td>
+</tr>
+</table>
 
-<p>
-  <a href="https://www.linkedin.com/in/sanikapdesai/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center"><i>⭐ Thanks for stopping by!</i></p>
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sanikapdesai&show_icons=true&theme=radical&hide_border=true&title_color=F6A6C1&icon_color=8E7DBE&text_color=ffffff&bg_color=1a1b27" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikapdesai&theme=radical&hide_border=true&background=1a1b27&ring=F6A6C1&fire=8E7DBE&currStreakLabel=F6A6C1" height="165"/>
+</div>
+
+<br/>
+
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sanikapdesai/">
+  <img src="https://img.shields.io/badge/LinkedIn-8E7DBE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E7DBE,100:F6A6C1&height=100&section=footer" width="100%"/>
