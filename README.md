@@ -14,7 +14,7 @@
 
 ### 🎓 About Me
 
-- 🌱 Currently pursuing my degree in **Artificial Intelligence & Machine Learning Engineering**
+- 🌱 Currently pursuing my degree in **Artificial Intelligence & Data Science Engineering**
 - 📘 Sharpening my fundamentals in **Data Structures & Algorithms**
 - 🐍 Learning and building with **Python**
 - 🌐 Exploring **Web Development**
