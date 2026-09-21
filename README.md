@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6A6C1,100:8E7DBE&height=220&section=header&text=Sanika%20Desai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Second%20Year%20AIML%20Engineering%20Student&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6A6C1,100:8E7DBE&height=220&section=header&text=Sanika%20Desai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Second%20Year%20AI%20%26%20Data%20Science%20Student&descSize=18&descAlignY=58" width="100%"/>
 
 <a href="https://www.linkedin.com/in/sanikapdesai/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-8E7DBE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=F6A6C1" alt="LinkedIn"/>
@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=800&color=8E7DBE&center=true&vCenter=true&width=560&lines=Learning+AI+%26+Machine+Learning;Sharpening+DSA+one+problem+at+a+time;Exploring+Web+Development;Python+is+my+comfort+language" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3000&pause=800&color=8E7DBE&center=true&vCenter=true&width=560&lines=AI+%26+Data+Science+Student;Sharpening+DSA+one+problem+at+a+time;Exploring+Web+Development;Python+is+my+comfort+language" alt="Typing SVG"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About
 
-I'm an AIML Engineering student in my second year, spending most days between algorithms, half-finished web projects, and figuring out how machine learning actually works under the hood. I like building things that make a concept click, not just checking boxes on a syllabus.
+I'm an AI & Data Science student in my second year, spending most days between algorithms, half-finished web projects, and figuring out how machine learning actually works under the hood. I like building things that make a concept click, not just checking boxes on a syllabus.
 
 Currently focused on:
 
